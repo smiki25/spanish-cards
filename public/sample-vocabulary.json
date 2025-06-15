@@ -1,0 +1,2417 @@
+[
+  {
+    "id": "1",
+    "spanish": "hola",
+    "english": "hello",
+    "category": "greetings",
+    "difficulty": "easy"
+  },
+  {
+    "id": "2",
+    "spanish": "adiós",
+    "english": "goodbye",
+    "category": "greetings",
+    "difficulty": "easy"
+  },
+  {
+    "id": "3",
+    "spanish": "gracias",
+    "english": "thank you",
+    "category": "politeness",
+    "difficulty": "easy"
+  },
+  {
+    "id": "4",
+    "spanish": "por favor",
+    "english": "please",
+    "category": "politeness",
+    "difficulty": "easy"
+  },
+  {
+    "id": "5",
+    "spanish": "agua",
+    "english": "water",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": "6",
+    "spanish": "comida",
+    "english": "food",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": "7",
+    "spanish": "casa",
+    "english": "house",
+    "category": "places",
+    "difficulty": "easy"
+  },
+  {
+    "id": "8",
+    "spanish": "escuela",
+    "english": "school",
+    "category": "places",
+    "difficulty": "easy"
+  },
+  {
+    "id": "9",
+    "spanish": "familia",
+    "english": "family",
+    "category": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "10",
+    "spanish": "amigo",
+    "english": "friend",
+    "category": "people",
+    "difficulty": "easy"
+  },
+  {
+    "id": "11",
+    "spanish": "trabajar",
+    "english": "to work",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "12",
+    "spanish": "estudiar",
+    "english": "to study",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "13",
+    "spanish": "hermoso",
+    "english": "beautiful",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "14",
+    "spanish": "inteligente",
+    "english": "intelligent",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "15",
+    "spanish": "rápidamente",
+    "english": "quickly",
+    "category": "adverbs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "16",
+    "spanish": "temprano",
+    "english": "early",
+    "category": "time",
+    "difficulty": "medium"
+  },
+  {
+    "id": "17",
+    "spanish": "tarde",
+    "english": "late",
+    "category": "time",
+    "difficulty": "medium"
+  },
+  {
+    "id": "18",
+    "spanish": "también",
+    "english": "also",
+    "category": "adverbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "19",
+    "spanish": "tener que",
+    "english": "to have to",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "20",
+    "spanish": "después",
+    "english": "after",
+    "category": "time",
+    "difficulty": "medium"
+  },
+  {
+    "id": "21",
+    "spanish": "antes",
+    "english": "before",
+    "category": "time",
+    "difficulty": "medium"
+  },
+  {
+    "id": "22",
+    "spanish": "volver",
+    "english": "to return",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "23",
+    "spanish": "semana",
+    "english": "week",
+    "category": "time",
+    "difficulty": "medium"
+  },
+  {
+    "id": "24",
+    "spanish": "salir",
+    "english": "to go out",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "25",
+    "spanish": "hacer la compra",
+    "english": "to go shopping",
+    "category": "activities",
+    "difficulty": "medium"
+  },
+  {
+    "id": "26",
+    "spanish": "terminar",
+    "english": "to finish",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "27",
+    "spanish": "cómodo",
+    "english": "comfortable",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "28",
+    "spanish": "alumno",
+    "english": "student",
+    "category": "people",
+    "difficulty": "medium"
+  },
+  {
+    "id": "29",
+    "spanish": "conmigo",
+    "english": "with me",
+    "category": "pronouns",
+    "difficulty": "medium"
+  },
+  {
+    "id": "30",
+    "spanish": "cansado",
+    "english": "tired",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "31",
+    "spanish": "lejos",
+    "english": "far",
+    "category": "location",
+    "difficulty": "medium"
+  },
+  {
+    "id": "32",
+    "spanish": "jugar",
+    "english": "to play",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "33",
+    "spanish": "allí",
+    "english": "there",
+    "category": "location",
+    "difficulty": "medium"
+  },
+  {
+    "id": "34",
+    "spanish": "varias veces",
+    "english": "several times",
+    "category": "frequency",
+    "difficulty": "medium"
+  },
+  {
+    "id": "35",
+    "spanish": "nunca",
+    "english": "never",
+    "category": "frequency",
+    "difficulty": "medium"
+  },
+  {
+    "id": "36",
+    "spanish": "a veces",
+    "english": "sometimes",
+    "category": "frequency",
+    "difficulty": "medium"
+  },
+  {
+    "id": "37",
+    "spanish": "algo",
+    "english": "something",
+    "category": "pronouns",
+    "difficulty": "medium"
+  },
+  {
+    "id": "38",
+    "spanish": "habitación",
+    "english": "room",
+    "category": "places",
+    "difficulty": "medium"
+  },
+  {
+    "id": "39",
+    "spanish": "ave",
+    "english": "bird",
+    "category": "animals",
+    "difficulty": "medium"
+  },
+  {
+    "id": "40",
+    "spanish": "casi",
+    "english": "almost",
+    "category": "adverbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "41",
+    "spanish": "uvas",
+    "english": "grapes",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": "42",
+    "spanish": "poco",
+    "english": "little",
+    "category": "quantity",
+    "difficulty": "medium"
+  },
+  {
+    "id": "43",
+    "spanish": "nieve",
+    "english": "snow",
+    "category": "weather",
+    "difficulty": "medium"
+  },
+  {
+    "id": "44",
+    "spanish": "frío",
+    "english": "cold",
+    "category": "weather",
+    "difficulty": "medium"
+  },
+  {
+    "id": "45",
+    "spanish": "bastante",
+    "english": "quite",
+    "category": "quantity",
+    "difficulty": "medium"
+  },
+  {
+    "id": "46",
+    "spanish": "más",
+    "english": "more",
+    "category": "quantity",
+    "difficulty": "medium"
+  },
+  {
+    "id": "47",
+    "spanish": "pescado",
+    "english": "fish",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": "48",
+    "spanish": "aceitunas",
+    "english": "olives",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": "49",
+    "spanish": "ojos",
+    "english": "eyes",
+    "category": "body",
+    "difficulty": "medium"
+  },
+  {
+    "id": "50",
+    "spanish": "camisa",
+    "english": "shirt",
+    "category": "clothing",
+    "difficulty": "medium"
+  },
+  {
+    "id": "51",
+    "spanish": "canción",
+    "english": "song",
+    "category": "entertainment",
+    "difficulty": "medium"
+  },
+  {
+    "id": "52",
+    "spanish": "gafas",
+    "english": "glasses",
+    "category": "clothing",
+    "difficulty": "medium"
+  },
+  {
+    "id": "53",
+    "spanish": "plátano",
+    "english": "banana",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": "54",
+    "spanish": "comprar",
+    "english": "to buy",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "55",
+    "spanish": "cosa",
+    "english": "thing",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "56",
+    "spanish": "emisora",
+    "english": "broadcast",
+    "category": "technology",
+    "difficulty": "medium"
+  },
+  {
+    "id": "57",
+    "spanish": "sonido",
+    "english": "sound",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "58",
+    "spanish": "todo",
+    "english": "everything",
+    "category": "pronouns",
+    "difficulty": "medium"
+  },
+  {
+    "id": "59",
+    "spanish": "laborable",
+    "english": "working (day)",
+    "category": "time",
+    "difficulty": "medium"
+  },
+  {
+    "id": "60",
+    "spanish": "piscina",
+    "english": "pool",
+    "category": "places",
+    "difficulty": "medium"
+  },
+  {
+    "id": "61",
+    "spanish": "espejo",
+    "english": "mirror",
+    "category": "household",
+    "difficulty": "medium"
+  },
+  {
+    "id": "62",
+    "spanish": "parecerse",
+    "english": "to resemble",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "63",
+    "spanish": "quince",
+    "english": "fifteen",
+    "category": "numbers",
+    "difficulty": "medium"
+  },
+  {
+    "id": "64",
+    "spanish": "a menudo",
+    "english": "often",
+    "category": "frequency",
+    "difficulty": "medium"
+  },
+  {
+    "id": "65",
+    "spanish": "por la tarde",
+    "english": "in the evening",
+    "category": "time",
+    "difficulty": "medium"
+  },
+  {
+    "id": "66",
+    "spanish": "por la mañana",
+    "english": "in the morning",
+    "category": "time",
+    "difficulty": "medium"
+  },
+  {
+    "id": "67",
+    "spanish": "vecino",
+    "english": "neighbor",
+    "category": "people",
+    "difficulty": "medium"
+  },
+  {
+    "id": "68",
+    "spanish": "alfombra",
+    "english": "carpet",
+    "category": "household",
+    "difficulty": "medium"
+  },
+  {
+    "id": "69",
+    "spanish": "hoy",
+    "english": "today",
+    "category": "time",
+    "difficulty": "medium"
+  },
+  {
+    "id": "70",
+    "spanish": "siempre",
+    "english": "always",
+    "category": "frequency",
+    "difficulty": "medium"
+  },
+  {
+    "id": "71",
+    "spanish": "enfermo",
+    "english": "sick",
+    "category": "health",
+    "difficulty": "medium"
+  },
+  {
+    "id": "72",
+    "spanish": "aquí",
+    "english": "here",
+    "category": "location",
+    "difficulty": "medium"
+  },
+  {
+    "id": "73",
+    "spanish": "contigo",
+    "english": "with you",
+    "category": "pronouns",
+    "difficulty": "medium"
+  },
+  {
+    "id": "74",
+    "spanish": "azúcar",
+    "english": "sugar",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": "75",
+    "spanish": "sin",
+    "english": "without",
+    "category": "prepositions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "76",
+    "spanish": "con",
+    "english": "with",
+    "category": "prepositions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "77",
+    "spanish": "viaje",
+    "english": "trip",
+    "category": "travel",
+    "difficulty": "medium"
+  },
+  {
+    "id": "78",
+    "spanish": "vida",
+    "english": "life",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "79",
+    "spanish": "ayudar",
+    "english": "to help",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "80",
+    "spanish": "charlar",
+    "english": "to chat",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "81",
+    "spanish": "limpiar",
+    "english": "to clean",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "82",
+    "spanish": "pasar",
+    "english": "to pass",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "83",
+    "spanish": "ver",
+    "english": "to see",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "84",
+    "spanish": "oficina",
+    "english": "office",
+    "category": "places",
+    "difficulty": "medium"
+  },
+  {
+    "id": "85",
+    "spanish": "llevar",
+    "english": "to lead",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "86",
+    "spanish": "llevar una vida",
+    "english": "to lead a life",
+    "category": "expressions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "87",
+    "spanish": "cena",
+    "english": "dinner",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": "88",
+    "spanish": "querido",
+    "english": "dear",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "89",
+    "spanish": "nuera",
+    "english": "daughter-in-law",
+    "category": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "90",
+    "spanish": "llegar",
+    "english": "to arrive",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "91",
+    "spanish": "mirar",
+    "english": "to look at",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "92",
+    "spanish": "ganar",
+    "english": "to win",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "93",
+    "spanish": "bajar",
+    "english": "to go down",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "94",
+    "spanish": "la basura",
+    "english": "trash",
+    "category": "household",
+    "difficulty": "medium"
+  },
+  {
+    "id": "95",
+    "spanish": "curar",
+    "english": "to cure",
+    "category": "health",
+    "difficulty": "medium"
+  },
+  {
+    "id": "96",
+    "spanish": "caminar",
+    "english": "to walk",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "97",
+    "spanish": "viajar",
+    "english": "to travel",
+    "category": "travel",
+    "difficulty": "medium"
+  },
+  {
+    "id": "98",
+    "spanish": "beber",
+    "english": "to drink",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "99",
+    "spanish": "prometer",
+    "english": "to promise",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "100",
+    "spanish": "aprender",
+    "english": "to learn",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "101",
+    "spanish": "recoger",
+    "english": "to tidy up",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "102",
+    "spanish": "comprender",
+    "english": "to understand",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "103",
+    "spanish": "compartir",
+    "english": "to share",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "104",
+    "spanish": "recibir los regalos",
+    "english": "to receive gifts",
+    "category": "expressions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "105",
+    "spanish": "descubrir cosas",
+    "english": "to discover things",
+    "category": "expressions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "106",
+    "spanish": "ser",
+    "english": "to be (essential/permanent quality)",
+    "category": "essential_verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "107",
+    "spanish": "estar",
+    "english": "to be (state/condition)",
+    "category": "essential_verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "108",
+    "spanish": "ir",
+    "english": "to go",
+    "category": "essential_verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "109",
+    "spanish": "decir",
+    "english": "to say/to tell",
+    "category": "essential_verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "110",
+    "spanish": "poder",
+    "english": "can/to be able to",
+    "category": "essential_verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "111",
+    "spanish": "dar",
+    "english": "to give",
+    "category": "essential_verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "112",
+    "spanish": "saber",
+    "english": "to know (facts/information)",
+    "category": "essential_verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "113",
+    "spanish": "conocer",
+    "english": "to know (people/places)",
+    "category": "essential_verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "114",
+    "spanish": "querer",
+    "english": "to want",
+    "category": "essential_verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "115",
+    "spanish": "necesitar",
+    "english": "to need",
+    "category": "essential_verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "116",
+    "spanish": "pensar",
+    "english": "to think",
+    "category": "essential_verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "117",
+    "spanish": "vivir",
+    "english": "to live",
+    "category": "essential_verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "118",
+    "spanish": "trabajo",
+    "english": "job/work",
+    "category": "work",
+    "difficulty": "medium"
+  },
+  {
+    "id": "119",
+    "spanish": "mañana",
+    "english": "morning/tomorrow",
+    "category": "time",
+    "difficulty": "medium"
+  },
+  {
+    "id": "120",
+    "spanish": "noche",
+    "english": "night",
+    "category": "time",
+    "difficulty": "medium"
+  },
+  {
+    "id": "121",
+    "spanish": "día",
+    "english": "day",
+    "category": "time",
+    "difficulty": "medium"
+  },
+  {
+    "id": "122",
+    "spanish": "año",
+    "english": "year",
+    "category": "time",
+    "difficulty": "medium"
+  },
+  {
+    "id": "123",
+    "spanish": "hombre",
+    "english": "man",
+    "category": "people",
+    "difficulty": "medium"
+  },
+  {
+    "id": "124",
+    "spanish": "mujer",
+    "english": "woman",
+    "category": "people",
+    "difficulty": "medium"
+  },
+  {
+    "id": "125",
+    "spanish": "niño",
+    "english": "boy",
+    "category": "people",
+    "difficulty": "medium"
+  },
+  {
+    "id": "126",
+    "spanish": "niña",
+    "english": "girl",
+    "category": "people",
+    "difficulty": "medium"
+  },
+  {
+    "id": "127",
+    "spanish": "padre",
+    "english": "father",
+    "category": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "128",
+    "spanish": "madre",
+    "english": "mother",
+    "category": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "129",
+    "spanish": "hermano",
+    "english": "brother",
+    "category": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "130",
+    "spanish": "hermana",
+    "english": "sister",
+    "category": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "131",
+    "spanish": "coche",
+    "english": "car",
+    "category": "transportation",
+    "difficulty": "medium"
+  },
+  {
+    "id": "132",
+    "spanish": "tiempo",
+    "english": "time/weather",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "133",
+    "spanish": "dinero",
+    "english": "money",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "134",
+    "spanish": "libro",
+    "english": "book",
+    "category": "education",
+    "difficulty": "medium"
+  },
+  {
+    "id": "135",
+    "spanish": "película",
+    "english": "movie",
+    "category": "entertainment",
+    "difficulty": "medium"
+  },
+  {
+    "id": "136",
+    "spanish": "correr",
+    "english": "to run",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "137",
+    "spanish": "leer",
+    "english": "to read",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "138",
+    "spanish": "escribir",
+    "english": "to write",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "139",
+    "spanish": "escuchar",
+    "english": "to listen",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "140",
+    "spanish": "hablar",
+    "english": "to speak",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "141",
+    "spanish": "comer",
+    "english": "to eat",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "142",
+    "spanish": "dormir",
+    "english": "to sleep",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "143",
+    "spanish": "abrir",
+    "english": "to open",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "144",
+    "spanish": "cerrar",
+    "english": "to close",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "145",
+    "spanish": "empezar",
+    "english": "to start",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "146",
+    "spanish": "esperar",
+    "english": "to wait/hope",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "147",
+    "spanish": "llamar",
+    "english": "to call",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "148",
+    "spanish": "usar",
+    "english": "to use",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "149",
+    "spanish": "cero",
+    "english": "zero",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "150",
+    "spanish": "uno",
+    "english": "one",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "151",
+    "spanish": "dos",
+    "english": "two",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "152",
+    "spanish": "tres",
+    "english": "three",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "153",
+    "spanish": "cuatro",
+    "english": "four",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "154",
+    "spanish": "cinco",
+    "english": "five",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "155",
+    "spanish": "seis",
+    "english": "six",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "156",
+    "spanish": "siete",
+    "english": "seven",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "157",
+    "spanish": "ocho",
+    "english": "eight",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "158",
+    "spanish": "nueve",
+    "english": "nine",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "159",
+    "spanish": "diez",
+    "english": "ten",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "160",
+    "spanish": "once",
+    "english": "eleven",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "161",
+    "spanish": "doce",
+    "english": "twelve",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "162",
+    "spanish": "trece",
+    "english": "thirteen",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "163",
+    "spanish": "catorce",
+    "english": "fourteen",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "164",
+    "spanish": "dieciséis",
+    "english": "sixteen",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "165",
+    "spanish": "diecisiete",
+    "english": "seventeen",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "166",
+    "spanish": "dieciocho",
+    "english": "eighteen",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "167",
+    "spanish": "diecinueve",
+    "english": "nineteen",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "168",
+    "spanish": "veinte",
+    "english": "twenty",
+    "category": "numbers",
+    "difficulty": "easy"
+  },
+  {
+    "id": "169",
+    "spanish": "el",
+    "english": "the (masculine singular)",
+    "category": "articles",
+    "difficulty": "easy"
+  },
+  {
+    "id": "170",
+    "spanish": "la",
+    "english": "the (feminine singular)",
+    "category": "articles",
+    "difficulty": "easy"
+  },
+  {
+    "id": "171",
+    "spanish": "los",
+    "english": "the (masculine plural)",
+    "category": "articles",
+    "difficulty": "easy"
+  },
+  {
+    "id": "172",
+    "spanish": "las",
+    "english": "the (feminine plural)",
+    "category": "articles",
+    "difficulty": "easy"
+  },
+  {
+    "id": "173",
+    "spanish": "un",
+    "english": "a (masculine)",
+    "category": "articles",
+    "difficulty": "easy"
+  },
+  {
+    "id": "174",
+    "spanish": "una",
+    "english": "a (feminine)",
+    "category": "articles",
+    "difficulty": "easy"
+  },
+  {
+    "id": "175",
+    "spanish": "unos",
+    "english": "some (masculine)",
+    "category": "articles",
+    "difficulty": "easy"
+  },
+  {
+    "id": "176",
+    "spanish": "unas",
+    "english": "some (feminine)",
+    "category": "articles",
+    "difficulty": "easy"
+  },
+  {
+    "id": "177",
+    "spanish": "yo",
+    "english": "I",
+    "category": "pronouns",
+    "difficulty": "easy"
+  },
+  {
+    "id": "178",
+    "spanish": "tú",
+    "english": "you (informal)",
+    "category": "pronouns",
+    "difficulty": "easy"
+  },
+  {
+    "id": "179",
+    "spanish": "usted",
+    "english": "you (formal)",
+    "category": "pronouns",
+    "difficulty": "easy"
+  },
+  {
+    "id": "180",
+    "spanish": "él",
+    "english": "he",
+    "category": "pronouns",
+    "difficulty": "easy"
+  },
+  {
+    "id": "181",
+    "spanish": "ella",
+    "english": "she",
+    "category": "pronouns",
+    "difficulty": "easy"
+  },
+  {
+    "id": "182",
+    "spanish": "nosotros",
+    "english": "we (masculine)",
+    "category": "pronouns",
+    "difficulty": "easy"
+  },
+  {
+    "id": "183",
+    "spanish": "nosotras",
+    "english": "we (feminine)",
+    "category": "pronouns",
+    "difficulty": "easy"
+  },
+  {
+    "id": "184",
+    "spanish": "vosotros",
+    "english": "you all (masculine informal, Spain)",
+    "category": "pronouns",
+    "difficulty": "easy"
+  },
+  {
+    "id": "185",
+    "spanish": "vosotras",
+    "english": "you all (feminine informal, Spain)",
+    "category": "pronouns",
+    "difficulty": "easy"
+  },
+  {
+    "id": "186",
+    "spanish": "ellos",
+    "english": "they (masculine)",
+    "category": "pronouns",
+    "difficulty": "easy"
+  },
+  {
+    "id": "187",
+    "spanish": "ellas",
+    "english": "they (feminine)",
+    "category": "pronouns",
+    "difficulty": "easy"
+  },
+  {
+    "id": "188",
+    "spanish": "ustedes",
+    "english": "you all (formal/informal Latin America)",
+    "category": "pronouns",
+    "difficulty": "easy"
+  },
+  {
+    "id": "189",
+    "spanish": "y",
+    "english": "and",
+    "category": "conjunctions",
+    "difficulty": "easy"
+  },
+  {
+    "id": "190",
+    "spanish": "o",
+    "english": "or",
+    "category": "conjunctions",
+    "difficulty": "easy"
+  },
+  {
+    "id": "191",
+    "spanish": "pero",
+    "english": "but",
+    "category": "conjunctions",
+    "difficulty": "easy"
+  },
+  {
+    "id": "192",
+    "spanish": "porque",
+    "english": "because",
+    "category": "conjunctions",
+    "difficulty": "easy"
+  },
+  {
+    "id": "193",
+    "spanish": "muy",
+    "english": "very",
+    "category": "adverbs",
+    "difficulty": "easy"
+  },
+  {
+    "id": "194",
+    "spanish": "ya",
+    "english": "already",
+    "category": "adverbs",
+    "difficulty": "easy"
+  },
+  {
+    "id": "195",
+    "spanish": "todavía",
+    "english": "still",
+    "category": "adverbs",
+    "difficulty": "easy"
+  },
+  {
+    "id": "196",
+    "spanish": "si",
+    "english": "if",
+    "category": "conjunctions",
+    "difficulty": "easy"
+  },
+  {
+    "id": "197",
+    "spanish": "que",
+    "english": "that",
+    "category": "conjunctions",
+    "difficulty": "easy"
+  },
+  {
+    "id": "198",
+    "spanish": "de",
+    "english": "of/from",
+    "category": "prepositions",
+    "difficulty": "easy"
+  },
+  {
+    "id": "199",
+    "spanish": "en",
+    "english": "in/on",
+    "category": "prepositions",
+    "difficulty": "easy"
+  },
+  {
+    "id": "200",
+    "spanish": "para",
+    "english": "for/to",
+    "category": "prepositions",
+    "difficulty": "easy"
+  },
+  {
+    "id": "201",
+    "spanish": "por",
+    "english": "by/through/for",
+    "category": "prepositions",
+    "difficulty": "easy"
+  },
+  {
+    "id": "202",
+    "spanish": "poner",
+    "english": "to put",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "203",
+    "spanish": "té",
+    "english": "tea",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": "204",
+    "spanish": "ocupado",
+    "english": "busy",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "205",
+    "spanish": "reloj",
+    "english": "clock/watch",
+    "category": "objects",
+    "difficulty": "medium"
+  },
+  {
+    "id": "206",
+    "spanish": "resfriado",
+    "english": "cold (illness)",
+    "category": "health",
+    "difficulty": "medium"
+  },
+  {
+    "id": "207",
+    "spanish": "concentrado",
+    "english": "concentrated/focused",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "208",
+    "spanish": "patatas",
+    "english": "potatoes",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": "209",
+    "spanish": "cerca",
+    "english": "near/close",
+    "category": "location",
+    "difficulty": "medium"
+  },
+  {
+    "id": "210",
+    "spanish": "cada",
+    "english": "each/every",
+    "category": "determiners",
+    "difficulty": "medium"
+  },
+  {
+    "id": "211",
+    "spanish": "cenar",
+    "english": "to have dinner",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "212",
+    "spanish": "desayunar",
+    "english": "to have breakfast",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "213",
+    "spanish": "a las",
+    "english": "at (time)",
+    "category": "time",
+    "difficulty": "medium"
+  },
+  {
+    "id": "214",
+    "spanish": "contento",
+    "english": "happy/content",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "215",
+    "spanish": "tocar",
+    "english": "to touch/to play (instrument)",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "216",
+    "spanish": "trastero",
+    "english": "storage room",
+    "category": "household",
+    "difficulty": "medium"
+  },
+  {
+    "id": "217",
+    "spanish": "buhardilla",
+    "english": "attic",
+    "category": "household",
+    "difficulty": "medium"
+  },
+  {
+    "id": "218",
+    "spanish": "terraza",
+    "english": "terrace",
+    "category": "household",
+    "difficulty": "medium"
+  },
+  {
+    "id": "219",
+    "spanish": "dormitorio",
+    "english": "bedroom",
+    "category": "household",
+    "difficulty": "medium"
+  },
+  {
+    "id": "220",
+    "spanish": "pasillo",
+    "english": "hallway",
+    "category": "household",
+    "difficulty": "medium"
+  },
+  {
+    "id": "221",
+    "spanish": "estudio",
+    "english": "study/office",
+    "category": "household",
+    "difficulty": "medium"
+  },
+  {
+    "id": "222",
+    "spanish": "escalera",
+    "english": "stairs",
+    "category": "household",
+    "difficulty": "medium"
+  },
+  {
+    "id": "223",
+    "spanish": "recibidor",
+    "english": "entrance hall",
+    "category": "household",
+    "difficulty": "medium"
+  },
+  {
+    "id": "224",
+    "spanish": "comedor",
+    "english": "dining room",
+    "category": "household",
+    "difficulty": "medium"
+  },
+  {
+    "id": "225",
+    "spanish": "cocina",
+    "english": "kitchen",
+    "category": "household",
+    "difficulty": "medium"
+  },
+  {
+    "id": "226",
+    "spanish": "baño",
+    "english": "bathroom",
+    "category": "household",
+    "difficulty": "medium"
+  },
+  {
+    "id": "227",
+    "spanish": "salón",
+    "english": "living room",
+    "category": "household",
+    "difficulty": "medium"
+  },
+  {
+    "id": "228",
+    "spanish": "mi",
+    "english": "my",
+    "category": "possessives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "229",
+    "spanish": "mis",
+    "english": "my (plural)",
+    "category": "possessives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "230",
+    "spanish": "tu",
+    "english": "your (informal)",
+    "category": "possessives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "231",
+    "spanish": "tus",
+    "english": "your (informal plural)",
+    "category": "possessives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "232",
+    "spanish": "su",
+    "english": "his/her/your (formal)",
+    "category": "possessives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "233",
+    "spanish": "sus",
+    "english": "his/her/your (formal plural)",
+    "category": "possessives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "234",
+    "spanish": "nuestro",
+    "english": "our (masculine)",
+    "category": "possessives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "235",
+    "spanish": "nuestra",
+    "english": "our (feminine)",
+    "category": "possessives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "236",
+    "spanish": "hacer",
+    "english": "to do/to make",
+    "category": "essential_verbs",
+    "difficulty": "easy"
+  },
+  {
+    "id": "237",
+    "spanish": "tener",
+    "english": "to have",
+    "category": "essential_verbs",
+    "difficulty": "easy"
+  },
+  {
+    "id": "238",
+    "spanish": "venir",
+    "english": "to come",
+    "category": "essential_verbs",
+    "difficulty": "easy"
+  },
+  {
+    "id": "239",
+    "spanish": "este",
+    "english": "this (masculine)",
+    "category": "demonstratives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "240",
+    "spanish": "esta",
+    "english": "this (feminine)",
+    "category": "demonstratives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "241",
+    "spanish": "estos",
+    "english": "these (masculine)",
+    "category": "demonstratives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "242",
+    "spanish": "estas",
+    "english": "these (feminine)",
+    "category": "demonstratives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "243",
+    "spanish": "ese",
+    "english": "that (masculine)",
+    "category": "demonstratives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "244",
+    "spanish": "esa",
+    "english": "that (feminine)",
+    "category": "demonstratives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "245",
+    "spanish": "qué",
+    "english": "what",
+    "category": "question_words",
+    "difficulty": "easy"
+  },
+  {
+    "id": "246",
+    "spanish": "quién",
+    "english": "who",
+    "category": "question_words",
+    "difficulty": "easy"
+  },
+  {
+    "id": "247",
+    "spanish": "cuándo",
+    "english": "when",
+    "category": "question_words",
+    "difficulty": "easy"
+  },
+  {
+    "id": "248",
+    "spanish": "dónde",
+    "english": "where",
+    "category": "question_words",
+    "difficulty": "easy"
+  },
+  {
+    "id": "249",
+    "spanish": "cómo",
+    "english": "how",
+    "category": "question_words",
+    "difficulty": "easy"
+  },
+  {
+    "id": "250",
+    "spanish": "cuánto",
+    "english": "how much",
+    "category": "question_words",
+    "difficulty": "easy"
+  },
+  {
+    "id": "251",
+    "spanish": "por qué",
+    "english": "why",
+    "category": "question_words",
+    "difficulty": "easy"
+  },
+  {
+    "id": "252",
+    "spanish": "grande",
+    "english": "big/large",
+    "category": "adjectives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "253",
+    "spanish": "pequeño",
+    "english": "small",
+    "category": "adjectives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "254",
+    "spanish": "bueno",
+    "english": "good",
+    "category": "adjectives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "255",
+    "spanish": "malo",
+    "english": "bad",
+    "category": "adjectives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "256",
+    "spanish": "nuevo",
+    "english": "new",
+    "category": "adjectives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "257",
+    "spanish": "viejo",
+    "english": "old",
+    "category": "adjectives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "258",
+    "spanish": "joven",
+    "english": "young",
+    "category": "adjectives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "259",
+    "spanish": "alto",
+    "english": "tall/high",
+    "category": "adjectives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "260",
+    "spanish": "bajo",
+    "english": "short/low",
+    "category": "adjectives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "261",
+    "spanish": "blanco",
+    "english": "white",
+    "category": "colors",
+    "difficulty": "easy"
+  },
+  {
+    "id": "262",
+    "spanish": "negro",
+    "english": "black",
+    "category": "colors",
+    "difficulty": "easy"
+  },
+  {
+    "id": "263",
+    "spanish": "rojo",
+    "english": "red",
+    "category": "colors",
+    "difficulty": "easy"
+  },
+  {
+    "id": "264",
+    "spanish": "azul",
+    "english": "blue",
+    "category": "colors",
+    "difficulty": "easy"
+  },
+  {
+    "id": "265",
+    "spanish": "verde",
+    "english": "green",
+    "category": "colors",
+    "difficulty": "easy"
+  },
+  {
+    "id": "266",
+    "spanish": "amarillo",
+    "english": "yellow",
+    "category": "colors",
+    "difficulty": "easy"
+  },
+  {
+    "id": "267",
+    "spanish": "lunes",
+    "english": "Monday",
+    "category": "days",
+    "difficulty": "easy"
+  },
+  {
+    "id": "268",
+    "spanish": "martes",
+    "english": "Tuesday",
+    "category": "days",
+    "difficulty": "easy"
+  },
+  {
+    "id": "269",
+    "spanish": "miércoles",
+    "english": "Wednesday",
+    "category": "days",
+    "difficulty": "easy"
+  },
+  {
+    "id": "270",
+    "spanish": "jueves",
+    "english": "Thursday",
+    "category": "days",
+    "difficulty": "easy"
+  },
+  {
+    "id": "271",
+    "spanish": "viernes",
+    "english": "Friday",
+    "category": "days",
+    "difficulty": "easy"
+  },
+  {
+    "id": "272",
+    "spanish": "sábado",
+    "english": "Saturday",
+    "category": "days",
+    "difficulty": "easy"
+  },
+  {
+    "id": "273",
+    "spanish": "domingo",
+    "english": "Sunday",
+    "category": "days",
+    "difficulty": "easy"
+  },
+  {
+    "id": "274",
+    "spanish": "sí",
+    "english": "yes",
+    "category": "basic",
+    "difficulty": "easy"
+  },
+  {
+    "id": "275",
+    "spanish": "no",
+    "english": "no",
+    "category": "basic",
+    "difficulty": "easy"
+  },
+  {
+    "id": "276",
+    "spanish": "bien",
+    "english": "well/good",
+    "category": "basic",
+    "difficulty": "easy"
+  },
+  {
+    "id": "277",
+    "spanish": "mal",
+    "english": "bad/badly",
+    "category": "basic",
+    "difficulty": "easy"
+  },
+  {
+    "id": "278",
+    "spanish": "mucho",
+    "english": "much/a lot",
+    "category": "quantity",
+    "difficulty": "easy"
+  },
+  {
+    "id": "279",
+    "spanish": "poco",
+    "english": "little/few",
+    "category": "quantity",
+    "difficulty": "easy"
+  },
+  {
+    "id": "280",
+    "spanish": "nada",
+    "english": "nothing",
+    "category": "basic",
+    "difficulty": "easy"
+  },
+  {
+    "id": "281",
+    "spanish": "algo",
+    "english": "something",
+    "category": "basic",
+    "difficulty": "easy"
+  },
+  {
+    "id": "282",
+    "spanish": "alguien",
+    "english": "someone",
+    "category": "basic",
+    "difficulty": "easy"
+  },
+  {
+    "id": "283",
+    "spanish": "nadie",
+    "english": "nobody",
+    "category": "basic",
+    "difficulty": "easy"
+  },
+  {
+    "id": "284",
+    "spanish": "perro",
+    "english": "dog",
+    "category": "animals",
+    "difficulty": "easy"
+  },
+  {
+    "id": "285",
+    "spanish": "gato",
+    "english": "cat",
+    "category": "animals",
+    "difficulty": "easy"
+  },
+  {
+    "id": "286",
+    "spanish": "pájaro",
+    "english": "bird",
+    "category": "animals",
+    "difficulty": "easy"
+  },
+  {
+    "id": "287",
+    "spanish": "pez",
+    "english": "fish",
+    "category": "animals",
+    "difficulty": "easy"
+  },
+  {
+    "id": "288",
+    "spanish": "caballo",
+    "english": "horse",
+    "category": "animals",
+    "difficulty": "easy"
+  },
+  {
+    "id": "289",
+    "spanish": "vaca",
+    "english": "cow",
+    "category": "animals",
+    "difficulty": "easy"
+  },
+  {
+    "id": "290",
+    "spanish": "cerdo",
+    "english": "pig",
+    "category": "animals",
+    "difficulty": "easy"
+  },
+  {
+    "id": "291",
+    "spanish": "mesa",
+    "english": "table",
+    "category": "furniture",
+    "difficulty": "easy"
+  },
+  {
+    "id": "292",
+    "spanish": "silla",
+    "english": "chair",
+    "category": "furniture",
+    "difficulty": "easy"
+  },
+  {
+    "id": "293",
+    "spanish": "cama",
+    "english": "bed",
+    "category": "furniture",
+    "difficulty": "easy"
+  },
+  {
+    "id": "294",
+    "spanish": "puerta",
+    "english": "door",
+    "category": "household",
+    "difficulty": "easy"
+  },
+  {
+    "id": "295",
+    "spanish": "ventana",
+    "english": "window",
+    "category": "household",
+    "difficulty": "easy"
+  },
+  {
+    "id": "296",
+    "spanish": "televisión",
+    "english": "television",
+    "category": "objects",
+    "difficulty": "easy"
+  },
+  {
+    "id": "297",
+    "spanish": "teléfono",
+    "english": "telephone",
+    "category": "objects",
+    "difficulty": "easy"
+  },
+  {
+    "id": "298",
+    "spanish": "ordenador",
+    "english": "computer",
+    "category": "objects",
+    "difficulty": "easy"
+  },
+  {
+    "id": "299",
+    "spanish": "autobús",
+    "english": "bus",
+    "category": "transportation",
+    "difficulty": "easy"
+  },
+  {
+    "id": "300",
+    "spanish": "tren",
+    "english": "train",
+    "category": "transportation",
+    "difficulty": "easy"
+  },
+  {
+    "id": "301",
+    "spanish": "avión",
+    "english": "airplane",
+    "category": "transportation",
+    "difficulty": "easy"
+  },
+  {
+    "id": "302",
+    "spanish": "bicicleta",
+    "english": "bicycle",
+    "category": "transportation",
+    "difficulty": "easy"
+  },
+  {
+    "id": "303",
+    "spanish": "árbol",
+    "english": "tree",
+    "category": "nature",
+    "difficulty": "easy"
+  },
+  {
+    "id": "304",
+    "spanish": "flor",
+    "english": "flower",
+    "category": "nature",
+    "difficulty": "easy"
+  },
+  {
+    "id": "305",
+    "spanish": "sol",
+    "english": "sun",
+    "category": "nature",
+    "difficulty": "easy"
+  },
+  {
+    "id": "306",
+    "spanish": "luna",
+    "english": "moon",
+    "category": "nature",
+    "difficulty": "easy"
+  },
+  {
+    "id": "307",
+    "spanish": "estrella",
+    "english": "star",
+    "category": "nature",
+    "difficulty": "easy"
+  },
+  {
+    "id": "308",
+    "spanish": "mar",
+    "english": "sea",
+    "category": "nature",
+    "difficulty": "easy"
+  },
+  {
+    "id": "309",
+    "spanish": "río",
+    "english": "river",
+    "category": "nature",
+    "difficulty": "easy"
+  },
+  {
+    "id": "310",
+    "spanish": "montaña",
+    "english": "mountain",
+    "category": "nature",
+    "difficulty": "easy"
+  },
+  {
+    "id": "311",
+    "spanish": "ciudad",
+    "english": "city",
+    "category": "places",
+    "difficulty": "easy"
+  },
+  {
+    "id": "312",
+    "spanish": "pueblo",
+    "english": "town/village",
+    "category": "places",
+    "difficulty": "easy"
+  },
+  {
+    "id": "313",
+    "spanish": "calle",
+    "english": "street",
+    "category": "places",
+    "difficulty": "easy"
+  },
+  {
+    "id": "314",
+    "spanish": "parque",
+    "english": "park",
+    "category": "places",
+    "difficulty": "easy"
+  },
+  {
+    "id": "315",
+    "spanish": "tienda",
+    "english": "store/shop",
+    "category": "places",
+    "difficulty": "easy"
+  },
+  {
+    "id": "316",
+    "spanish": "restaurante",
+    "english": "restaurant",
+    "category": "places",
+    "difficulty": "easy"
+  },
+  {
+    "id": "317",
+    "spanish": "hospital",
+    "english": "hospital",
+    "category": "places",
+    "difficulty": "easy"
+  },
+  {
+    "id": "318",
+    "spanish": "banco",
+    "english": "bank",
+    "category": "places",
+    "difficulty": "easy"
+  },
+  {
+    "id": "319",
+    "spanish": "pan",
+    "english": "bread",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": "320",
+    "spanish": "leche",
+    "english": "milk",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": "321",
+    "spanish": "huevo",
+    "english": "egg",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": "322",
+    "spanish": "carne",
+    "english": "meat",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": "323",
+    "spanish": "pollo",
+    "english": "chicken",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": "324",
+    "spanish": "arroz",
+    "english": "rice",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": "325",
+    "spanish": "fruta",
+    "english": "fruit",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": "326",
+    "spanish": "manzana",
+    "english": "apple",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": "327",
+    "spanish": "naranja",
+    "english": "orange",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": "328",
+    "spanish": "cabeza",
+    "english": "head",
+    "category": "body",
+    "difficulty": "easy"
+  },
+  {
+    "id": "329",
+    "spanish": "cara",
+    "english": "face",
+    "category": "body",
+    "difficulty": "easy"
+  },
+  {
+    "id": "330",
+    "spanish": "mano",
+    "english": "hand",
+    "category": "body",
+    "difficulty": "easy"
+  },
+  {
+    "id": "331",
+    "spanish": "pie",
+    "english": "foot",
+    "category": "body",
+    "difficulty": "easy"
+  },
+  {
+    "id": "332",
+    "spanish": "brazo",
+    "english": "arm",
+    "category": "body",
+    "difficulty": "easy"
+  },
+  {
+    "id": "333",
+    "spanish": "pierna",
+    "english": "leg",
+    "category": "body",
+    "difficulty": "easy"
+  },
+  {
+    "id": "334",
+    "spanish": "boca",
+    "english": "mouth",
+    "category": "body",
+    "difficulty": "easy"
+  },
+  {
+    "id": "335",
+    "spanish": "nariz",
+    "english": "nose",
+    "category": "body",
+    "difficulty": "easy"
+  },
+  {
+    "id": "336",
+    "spanish": "ojo",
+    "english": "eye",
+    "category": "body",
+    "difficulty": "easy"
+  },
+  {
+    "id": "337",
+    "spanish": "oreja",
+    "english": "ear",
+    "category": "body",
+    "difficulty": "easy"
+  },
+  {
+    "id": "338",
+    "spanish": "ropa",
+    "english": "clothes",
+    "category": "clothing",
+    "difficulty": "easy"
+  },
+  {
+    "id": "339",
+    "spanish": "zapato",
+    "english": "shoe",
+    "category": "clothing",
+    "difficulty": "easy"
+  },
+  {
+    "id": "340",
+    "spanish": "pantalón",
+    "english": "pants",
+    "category": "clothing",
+    "difficulty": "easy"
+  },
+  {
+    "id": "341",
+    "spanish": "vestido",
+    "english": "dress",
+    "category": "clothing",
+    "difficulty": "easy"
+  },
+  {
+    "id": "342",
+    "spanish": "sombrero",
+    "english": "hat",
+    "category": "clothing",
+    "difficulty": "easy"
+  },
+  {
+    "id": "343",
+    "spanish": "calor",
+    "english": "heat/hot",
+    "category": "weather",
+    "difficulty": "easy"
+  },
+  {
+    "id": "344",
+    "spanish": "lluvia",
+    "english": "rain",
+    "category": "weather",
+    "difficulty": "easy"
+  },
+  {
+    "id": "345",
+    "spanish": "viento",
+    "english": "wind",
+    "category": "weather",
+    "difficulty": "easy"
+  }
+]
