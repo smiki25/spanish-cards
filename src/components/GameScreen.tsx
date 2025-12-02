@@ -52,9 +52,9 @@ const GameScreen = ({ gameState, onAnswer, onNext }: GameScreenProps) => {
   return (
     <>
       <div className="hidden md:block">
-        <div className="card max-w-4xl mx-auto">
+        <div className="card max-w-4xl mx-auto animate-fade-in">
           <div className="mb-8">
-            <div className="flex justify-between items-center mb-2">
+            <div className="flex justify-between items-center mb-3">
               <span className="text-sm font-medium text-gray-600">
                 Question {currentQuestionIndex + 1} of {totalQuestions}
               </span>
@@ -62,9 +62,9 @@ const GameScreen = ({ gameState, onAnswer, onNext }: GameScreenProps) => {
                 Score: {score}/{currentQuestionIndex + (isAnswered ? 1 : 0)}
               </span>
             </div>
-            <div className="w-full bg-gray-200 rounded-full h-2">
+            <div className="w-full bg-gray-200 rounded-full h-2.5">
               <div 
-                className="bg-blue-600 h-2 rounded-full transition-all duration-300"
+                className="bg-primary-600 h-2.5 rounded-full transition-all duration-300"
                 style={{ width: `${progress}%` }}
               ></div>
             </div>
@@ -72,12 +72,12 @@ const GameScreen = ({ gameState, onAnswer, onNext }: GameScreenProps) => {
 
           <div className="text-center mb-8">
             <h2 className="text-sm font-medium text-gray-500 mb-4">Translate this Spanish word:</h2>
-            <div className="bg-blue-50 rounded-xl p-8 mb-6">
-              <h1 className="text-5xl font-bold text-blue-800 mb-4">
+            <div className="bg-gradient-to-br from-primary-50 to-accent-50 rounded-2xl p-10 mb-6 shadow-inner">
+              <h1 className="text-6xl font-bold text-primary-700 mb-4">
                 {currentQuestion.word.spanish}
               </h1>
               {currentQuestion.word.category && !gameState.hardMode && (
-                <span className="inline-block bg-blue-200 text-blue-800 text-sm px-3 py-1 rounded-full">
+                <span className="inline-block bg-white text-primary-700 text-sm px-4 py-1.5 rounded-full font-medium shadow-sm">
                   {currentQuestion.word.category}
                 </span>
               )}
@@ -86,11 +86,13 @@ const GameScreen = ({ gameState, onAnswer, onNext }: GameScreenProps) => {
             {speechSupported && (
               <button
                 onClick={playSpanishAudio}
-                className={`btn-secondary ${isPlaying ? 'opacity-50 cursor-not-allowed' : ''}`}
+                className={`btn-secondary ${
+                  isPlaying ? 'opacity-50 cursor-not-allowed' : ''
+                }`}
                 disabled={isPlaying}
               >
                 <div className="flex items-center gap-2">
-                  <Volume2 className={`h-5 w-5 ${isPlaying ? 'animate-pulse' : ''}`} />
+                  <Volume2 className={`h-4 w-4 ${isPlaying ? 'animate-pulse' : ''}`} />
                   {isPlaying ? 'Playing...' : 'Listen'}
                 </div>
               </button>
@@ -104,10 +106,10 @@ const GameScreen = ({ gameState, onAnswer, onNext }: GameScreenProps) => {
             
             <div className="space-y-3 mb-8">
               {currentQuestion.options.map((option, index) => {
-                let buttonClass = "w-full p-4 text-left rounded-lg border-2 transition-all duration-200 font-medium";
+                let buttonClass = "w-full p-5 text-left rounded-xl border-2 transition-all duration-200 font-medium text-lg";
                 
                 if (!isAnswered) {
-                  buttonClass += " border-gray-200 hover:border-blue-300 hover:bg-blue-50";
+                  buttonClass += " border-gray-200 hover:border-primary-300 hover:bg-primary-50/50";
                 } else {
                   if (option === currentQuestion.correctAnswer) {
                     buttonClass += " border-green-500 bg-green-50 text-green-800";
@@ -126,7 +128,7 @@ const GameScreen = ({ gameState, onAnswer, onNext }: GameScreenProps) => {
                     disabled={isAnswered}
                   >
                     <div className="flex items-center justify-between">
-                      <span className="text-lg">{option}</span>
+                      <span>{option}</span>
                       {isAnswered && option === currentQuestion.correctAnswer && (
                         <CheckCircle className="h-6 w-6 text-green-600" />
                       )}
@@ -174,20 +176,20 @@ const GameScreen = ({ gameState, onAnswer, onNext }: GameScreenProps) => {
             </div>
             <div className="w-full bg-gray-200 rounded-full h-2">
               <div 
-                className="bg-blue-600 h-2 rounded-full transition-all duration-300"
+                className="bg-primary-600 h-2 rounded-full transition-all duration-300"
                 style={{ width: `${progress}%` }}
               ></div>
             </div>
           </div>
 
-          <div className="bg-white rounded-2xl shadow-xl p-6 mb-6 text-center">
+          <div className="bg-white rounded-2xl shadow-lg p-6 mb-6 text-center">
             <p className="text-gray-500 text-sm mb-3">Translate this Spanish word:</p>
-            <h1 className="text-3xl sm:text-4xl font-bold text-blue-800 mb-4">
+            <h1 className="text-4xl sm:text-5xl font-bold text-primary-700 mb-4">
               {currentQuestion.word.spanish}
             </h1>
             
             {currentQuestion.word.category && !gameState.hardMode && (
-              <span className="inline-block bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full mb-4">
+              <span className="inline-block bg-primary-50 text-primary-700 text-xs px-3 py-1.5 rounded-full font-medium mb-4">
                 {currentQuestion.word.category}
               </span>
             )}
@@ -198,8 +200,8 @@ const GameScreen = ({ gameState, onAnswer, onNext }: GameScreenProps) => {
                   onClick={playSpanishAudio}
                   className={`px-4 py-2 rounded-lg text-sm font-medium transition-all ${
                     isPlaying 
-                      ? 'bg-blue-200 text-blue-700 cursor-not-allowed' 
-                      : 'bg-blue-600 text-white hover:bg-blue-700 active:bg-blue-800'
+                      ? 'bg-gray-200 text-gray-600 cursor-not-allowed' 
+                      : 'bg-gray-800 text-white hover:bg-gray-900'
                   }`}
                   disabled={isPlaying}
                 >
@@ -217,7 +219,7 @@ const GameScreen = ({ gameState, onAnswer, onNext }: GameScreenProps) => {
               let buttonClass = "w-full p-4 text-left rounded-xl border-2 transition-all duration-200 font-medium touch-manipulation";
               
               if (!isAnswered) {
-                buttonClass += " border-gray-200 hover:border-blue-300 hover:bg-blue-50 active:bg-blue-100";
+                buttonClass += " border-gray-200 hover:border-primary-300 hover:bg-primary-50/50";
               } else {
                 if (option === currentQuestion.correctAnswer) {
                   buttonClass += " border-green-500 bg-green-50 text-green-800";
@@ -252,7 +254,7 @@ const GameScreen = ({ gameState, onAnswer, onNext }: GameScreenProps) => {
           {isAnswered && (
             <button
               onClick={onNext}
-              className="w-full bg-blue-600 hover:bg-blue-700 active:bg-blue-800 text-white font-semibold py-4 px-6 rounded-xl transition-all duration-200 shadow-lg hover:shadow-xl"
+              className="w-full btn-primary py-4 px-6"
             >
               <div className="flex items-center justify-center gap-2">
                 <span className="text-lg">

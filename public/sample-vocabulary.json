@@ -2413,5 +2413,1923 @@
     "english": "wind",
     "category": "weather",
     "difficulty": "easy"
+  },
+  {
+    "id": "346",
+    "spanish": "pareja",
+    "english": "couple/partner",
+    "category": "people",
+    "difficulty": "medium"
+  },
+  {
+    "id": "347",
+    "spanish": "casero",
+    "english": "homemade",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "348",
+    "spanish": "a la plancha",
+    "english": "grilled",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": "349",
+    "spanish": "entrecot",
+    "english": "entrecote/steak",
+    "category": "food",
+    "difficulty": "hard"
+  },
+  {
+    "id": "350",
+    "spanish": "seta",
+    "english": "mushroom",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": "351",
+    "spanish": "salsa",
+    "english": "sauce",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": "352",
+    "spanish": "asado",
+    "english": "roast",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": "353",
+    "spanish": "de primero",
+    "english": "appetizer/first course",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": "354",
+    "spanish": "de segundo",
+    "english": "main course",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": "355",
+    "spanish": "de postre",
+    "english": "dessert",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": "356",
+    "spanish": "jugo",
+    "english": "juice",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": "357",
+    "spanish": "panqueques",
+    "english": "pancakes",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": "358",
+    "spanish": "en el desayuno",
+    "english": "at breakfast",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": "359",
+    "spanish": "en la cena",
+    "english": "at dinner",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": "360",
+    "spanish": "en el almuerzo",
+    "english": "at lunch",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": "361",
+    "spanish": "con tarjeta",
+    "english": "by card",
+    "category": "shopping",
+    "difficulty": "easy"
+  },
+  {
+    "id": "362",
+    "spanish": "en efectivo",
+    "english": "cash",
+    "category": "shopping",
+    "difficulty": "easy"
+  },
+  {
+    "id": "363",
+    "spanish": "escoger",
+    "english": "to choose",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "364",
+    "spanish": "descuento",
+    "english": "discount",
+    "category": "shopping",
+    "difficulty": "medium"
+  },
+  {
+    "id": "365",
+    "spanish": "jersey",
+    "english": "sweater/jumper",
+    "category": "clothing",
+    "difficulty": "medium"
+  },
+  {
+    "id": "366",
+    "spanish": "gorra",
+    "english": "cap",
+    "category": "clothing",
+    "difficulty": "medium"
+  },
+  {
+    "id": "367",
+    "spanish": "ponerse",
+    "english": "to put on (clothes)",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "368",
+    "spanish": "bufanda",
+    "english": "scarf",
+    "category": "clothing",
+    "difficulty": "medium"
+  },
+  {
+    "id": "369",
+    "spanish": "guantes",
+    "english": "gloves",
+    "category": "clothing",
+    "difficulty": "medium"
+  },
+  {
+    "id": "370",
+    "spanish": "prestar",
+    "english": "to lend",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "371",
+    "spanish": "botas",
+    "english": "boots",
+    "category": "clothing",
+    "difficulty": "medium"
+  },
+  {
+    "id": "372",
+    "spanish": "calentar",
+    "english": "to heat",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "373",
+    "spanish": "cinturón",
+    "english": "belt",
+    "category": "clothing",
+    "difficulty": "medium"
+  },
+  {
+    "id": "374",
+    "spanish": "bolso",
+    "english": "bag",
+    "category": "clothing",
+    "difficulty": "medium"
+  },
+  {
+    "id": "375",
+    "spanish": "bañador",
+    "english": "swimsuit",
+    "category": "clothing",
+    "difficulty": "medium"
+  },
+  {
+    "id": "376",
+    "spanish": "naturaleza",
+    "english": "nature",
+    "category": "nature",
+    "difficulty": "medium"
+  },
+  {
+    "id": "377",
+    "spanish": "más o menos",
+    "english": "more or less",
+    "category": "expressions",
+    "difficulty": "easy"
+  },
+  {
+    "id": "378",
+    "spanish": "llover",
+    "english": "to rain",
+    "category": "weather",
+    "difficulty": "medium"
+  },
+  {
+    "id": "379",
+    "spanish": "compartir",
+    "english": "to share",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "380",
+    "spanish": "la mayoría",
+    "english": "the majority",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "381",
+    "spanish": "calidad",
+    "english": "quality",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "382",
+    "spanish": "hábito",
+    "english": "habit",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "383",
+    "spanish": "extendido",
+    "english": "widespread",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "384",
+    "spanish": "festivo",
+    "english": "festive/holiday",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "385",
+    "spanish": "alimentos",
+    "english": "food/foods",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": "386",
+    "spanish": "agradable",
+    "english": "pleasant",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "387",
+    "spanish": "preocupado",
+    "english": "worried",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "388",
+    "spanish": "bollo",
+    "english": "bun",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": "389",
+    "spanish": "en esos casos",
+    "english": "in those cases",
+    "category": "expressions",
+    "difficulty": "hard"
+  },
+  {
+    "id": "390",
+    "spanish": "se hace",
+    "english": "it is done/made",
+    "category": "expressions",
+    "difficulty": "hard"
+  },
+  {
+    "id": "391",
+    "spanish": "se dice",
+    "english": "it is said",
+    "category": "expressions",
+    "difficulty": "hard"
+  },
+  {
+    "id": "392",
+    "spanish": "negocio",
+    "english": "business",
+    "category": "business",
+    "difficulty": "medium"
+  },
+  {
+    "id": "393",
+    "spanish": "último",
+    "english": "last",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "394",
+    "spanish": "aproximadamente",
+    "english": "approximately",
+    "category": "adverbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "395",
+    "spanish": "principal",
+    "english": "main/principal",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "396",
+    "spanish": "mercado",
+    "english": "market",
+    "category": "places",
+    "difficulty": "medium"
+  },
+  {
+    "id": "397",
+    "spanish": "alguno",
+    "english": "some (masc.)",
+    "category": "pronouns",
+    "difficulty": "medium"
+  },
+  {
+    "id": "398",
+    "spanish": "alguna",
+    "english": "some (fem.)",
+    "category": "pronouns",
+    "difficulty": "medium"
+  },
+  {
+    "id": "399",
+    "spanish": "antiguo",
+    "english": "old/ancient",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "400",
+    "spanish": "edificio",
+    "english": "building",
+    "category": "places",
+    "difficulty": "medium"
+  },
+  {
+    "id": "401",
+    "spanish": "estrecho",
+    "english": "narrow",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "402",
+    "spanish": "cualquiera",
+    "english": "anyone/whichever",
+    "category": "pronouns",
+    "difficulty": "medium"
+  },
+  {
+    "id": "403",
+    "spanish": "plaza",
+    "english": "square",
+    "category": "places",
+    "difficulty": "medium"
+  },
+  {
+    "id": "404",
+    "spanish": "en turnos",
+    "english": "in shifts",
+    "category": "expressions",
+    "difficulty": "hard"
+  },
+  {
+    "id": "405",
+    "spanish": "ayuntamiento",
+    "english": "town hall",
+    "category": "places",
+    "difficulty": "hard"
+  },
+  {
+    "id": "406",
+    "spanish": "monte",
+    "english": "mount",
+    "category": "nature",
+    "difficulty": "medium"
+  },
+  {
+    "id": "407",
+    "spanish": "subir",
+    "english": "to go up",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "408",
+    "spanish": "abeja",
+    "english": "bee",
+    "category": "animals",
+    "difficulty": "medium"
+  },
+  {
+    "id": "409",
+    "spanish": "picar",
+    "english": "to sting",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "410",
+    "spanish": "anillo",
+    "english": "ring",
+    "category": "objects",
+    "difficulty": "medium"
+  },
+  {
+    "id": "411",
+    "spanish": "meter",
+    "english": "to put in",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "412",
+    "spanish": "mensaje",
+    "english": "message",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "413",
+    "spanish": "regalo",
+    "english": "gift",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "414",
+    "spanish": "devolver",
+    "english": "to return give back",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "415",
+    "spanish": "que viene",
+    "english": "next/upcoming",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "416",
+    "spanish": "juntos",
+    "english": "together",
+    "category": "adverbs",
+    "difficulty": "easy"
+  },
+  {
+    "id": "417",
+    "spanish": "regresar",
+    "english": "to return",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "418",
+    "spanish": "estadio",
+    "english": "stadium",
+    "category": "places",
+    "difficulty": "medium"
+  },
+  {
+    "id": "419",
+    "spanish": "mañana por la mañana",
+    "english": "tomorrow morning",
+    "category": "time",
+    "difficulty": "medium"
+  },
+  {
+    "id": "420",
+    "spanish": "dulce",
+    "english": "sweet/candy",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": "421",
+    "spanish": "zanahoria",
+    "english": "carrot",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": "422",
+    "spanish": "ciruela",
+    "english": "plum",
+    "category": "food",
+    "difficulty": "easy"
+  },
+  {
+    "id": "423",
+    "spanish": "abrigo",
+    "english": "coat",
+    "category": "clothing",
+    "difficulty": "medium"
+  },
+  {
+    "id": "424",
+    "spanish": "maduro",
+    "english": "ripe",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": "425",
+    "spanish": "feliz",
+    "english": "happy",
+    "category": "adjectives",
+    "difficulty": "easy"
+  },
+  {
+    "id": "426",
+    "spanish": "doy",
+    "english": "I give",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "427",
+    "spanish": "das",
+    "english": "you give",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "428",
+    "spanish": "da",
+    "english": "he/she gives",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "429",
+    "spanish": "damos",
+    "english": "we give",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "430",
+    "spanish": "dais",
+    "english": "you all give",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "431",
+    "spanish": "dan",
+    "english": "they give",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "432",
+    "spanish": "infancia",
+    "english": "childhood",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "433",
+    "spanish": "junto a",
+    "english": "next to",
+    "category": "location",
+    "difficulty": "medium"
+  },
+  {
+    "id": "434",
+    "spanish": "ahí",
+    "english": "there",
+    "category": "location",
+    "difficulty": "medium"
+  },
+  {
+    "id": "435",
+    "spanish": "por ejemplo",
+    "english": "for example",
+    "category": "expressions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "436",
+    "spanish": "me recuerda",
+    "english": "reminds me",
+    "category": "expressions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "437",
+    "spanish": "pienso",
+    "english": "I think",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "438",
+    "spanish": "piensas",
+    "english": "you think",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "439",
+    "spanish": "piensa",
+    "english": "he/she thinks",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "440",
+    "spanish": "pensamos",
+    "english": "we think",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "441",
+    "spanish": "pensáis",
+    "english": "you all think",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "442",
+    "spanish": "piensan",
+    "english": "they think",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "443",
+    "spanish": "llave",
+    "english": "key",
+    "category": "objects",
+    "difficulty": "easy"
+  },
+  {
+    "id": "444",
+    "spanish": "pasado",
+    "english": "past",
+    "category": "time",
+    "difficulty": "medium"
+  },
+  {
+    "id": "445",
+    "spanish": "palabra",
+    "english": "word",
+    "category": "general",
+    "difficulty": "easy"
+  },
+  {
+    "id": "446",
+    "spanish": "comenzar",
+    "english": "to begin",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "447",
+    "spanish": "caer",
+    "english": "to fall",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "448",
+    "spanish": "ayer",
+    "english": "yesterday",
+    "category": "time",
+    "difficulty": "easy"
+  },
+  {
+    "id": "449",
+    "spanish": "conseguir",
+    "english": "to manage",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "450",
+    "spanish": "un fantasma",
+    "english": "a ghost",
+    "category": "general",
+    "difficulty": "hard"
+  },
+  {
+    "id": "451",
+    "spanish": "buenas notas",
+    "english": "good grades",
+    "category": "school",
+    "difficulty": "medium"
+  },
+  {
+    "id": "452",
+    "spanish": "chiste",
+    "english": "joke",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "453",
+    "spanish": "viendo",
+    "english": "watching",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "454",
+    "spanish": "correo electrónico",
+    "english": "email",
+    "category": "technology",
+    "difficulty": "medium"
+  },
+  {
+    "id": "455",
+    "spanish": "fuera",
+    "english": "outside",
+    "category": "location",
+    "difficulty": "medium"
+  },
+  {
+    "id": "456",
+    "spanish": "examen",
+    "english": "exam",
+    "category": "school",
+    "difficulty": "medium"
+  },
+  {
+    "id": "457",
+    "spanish": "baloncesto",
+    "english": "basketball",
+    "category": "sports",
+    "difficulty": "medium"
+  },
+  {
+    "id": "458",
+    "spanish": "olvidar",
+    "english": "to forget",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "459",
+    "spanish": "tanto",
+    "english": "so much",
+    "category": "adverbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "460",
+    "spanish": "demasiado",
+    "english": "too much",
+    "category": "adverbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "461",
+    "spanish": "mentira",
+    "english": "lie",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "462",
+    "spanish": "permiso",
+    "english": "permission",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "463",
+    "spanish": "de nuevo",
+    "english": "again",
+    "category": "adverbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "464",
+    "spanish": "miedo",
+    "english": "fear",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "465",
+    "spanish": "tener miedo",
+    "english": "to be afraid",
+    "category": "expression",
+    "difficulty": "medium"
+  },
+  {
+    "id": "466",
+    "spanish": "ruido",
+    "english": "noise",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "467",
+    "spanish": "revista",
+    "english": "magazine",
+    "category": "media",
+    "difficulty": "medium"
+  },
+  {
+    "id": "468",
+    "spanish": "décimo",
+    "english": "tenth",
+    "category": "numbers",
+    "difficulty": "hard"
+  },
+  {
+    "id": "469",
+    "spanish": "empresa",
+    "english": "company",
+    "category": "business",
+    "difficulty": "medium"
+  },
+  {
+    "id": "470",
+    "spanish": "durante",
+    "english": "during",
+    "category": "prepositions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "471",
+    "spanish": "esqueleto",
+    "english": "skeleton",
+    "category": "body",
+    "difficulty": "medium"
+  },
+  {
+    "id": "472",
+    "spanish": "preferido",
+    "english": "favorite",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "473",
+    "spanish": "cotidiano",
+    "english": "everyday",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "474",
+    "spanish": "la muerte",
+    "english": "death",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "475",
+    "spanish": "triste",
+    "english": "sad",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "476",
+    "spanish": "faltar",
+    "english": "to lack",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "477",
+    "spanish": "incluso",
+    "english": "even",
+    "category": "adverbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "478",
+    "spanish": "un poco",
+    "english": "a little",
+    "category": "adverbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "479",
+    "spanish": "origen",
+    "english": "origin",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "480",
+    "spanish": "creer",
+    "english": "to believe",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "481",
+    "spanish": "vela",
+    "english": "candle",
+    "category": "objects",
+    "difficulty": "medium"
+  },
+  {
+    "id": "482",
+    "spanish": "cementerio",
+    "english": "cemetery",
+    "category": "places",
+    "difficulty": "medium"
+  },
+  {
+    "id": "483",
+    "spanish": "servir",
+    "english": "to serve",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "484",
+    "spanish": "antepasados",
+    "english": "ancestors",
+    "category": "family",
+    "difficulty": "hard"
+  },
+  {
+    "id": "485",
+    "spanish": "reunirse",
+    "english": "to meet/gather",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "486",
+    "spanish": "iluminar",
+    "english": "to illuminate",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "487",
+    "spanish": "despedirse",
+    "english": "to say goodbye",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "488",
+    "spanish": "así",
+    "english": "like this",
+    "category": "adverbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "489",
+    "spanish": "se trata",
+    "english": "it's about",
+    "category": "expression",
+    "difficulty": "hard"
+  },
+  {
+    "id": "490",
+    "spanish": "seguro",
+    "english": "sure/safe",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "491",
+    "spanish": "los demás",
+    "english": "the others",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "492",
+    "spanish": "respetar",
+    "english": "to respect",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "493",
+    "spanish": "sano",
+    "english": "healthy",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "494",
+    "spanish": "saludable",
+    "english": "healthy",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "495",
+    "spanish": "pizarra",
+    "english": "blackboard",
+    "category": "school",
+    "difficulty": "medium"
+  },
+  {
+    "id": "496",
+    "spanish": "cansarse",
+    "english": "to get tired",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "497",
+    "spanish": "charlar",
+    "english": "to chat",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "498",
+    "spanish": "quizás",
+    "english": "maybe",
+    "category": "adverbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "499",
+    "spanish": "hablar de",
+    "english": "to talk about",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "500",
+    "spanish": "despacho",
+    "english": "office/study",
+    "category": "places",
+    "difficulty": "medium"
+  },
+  {
+    "id": "501",
+    "spanish": "ten cuidado",
+    "english": "be careful",
+    "category": "expressions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "502",
+    "spanish": "dar un paseo",
+    "english": "to go for a walk",
+    "category": "expressions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "503",
+    "spanish": "orilla",
+    "english": "shore",
+    "category": "nature",
+    "difficulty": "medium"
+  },
+  {
+    "id": "504",
+    "spanish": "amanecer",
+    "english": "dawn",
+    "category": "nature",
+    "difficulty": "medium"
+  },
+  {
+    "id": "505",
+    "spanish": "tomar el sol",
+    "english": "to sunbathe",
+    "category": "expressions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "506",
+    "spanish": "arena",
+    "english": "sand",
+    "category": "nature",
+    "difficulty": "medium"
+  },
+  {
+    "id": "507",
+    "spanish": "frente",
+    "english": "in front of",
+    "category": "location",
+    "difficulty": "medium"
+  },
+  {
+    "id": "508",
+    "spanish": "atardecer",
+    "english": "sunset",
+    "category": "nature",
+    "difficulty": "medium"
+  },
+  {
+    "id": "509",
+    "spanish": "esta vez",
+    "english": "this time",
+    "category": "expressions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "510",
+    "spanish": "fogata",
+    "english": "campfire",
+    "category": "nature",
+    "difficulty": "medium"
+  },
+  {
+    "id": "511",
+    "spanish": "encender",
+    "english": "to light",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "512",
+    "spanish": "tienda de campaña",
+    "english": "tent",
+    "category": "objects",
+    "difficulty": "medium"
+  },
+  {
+    "id": "513",
+    "spanish": "deportivo",
+    "english": "sporty",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "514",
+    "spanish": "mascota",
+    "english": "pet",
+    "category": "animals",
+    "difficulty": "medium"
+  },
+  {
+    "id": "515",
+    "spanish": "semejanza",
+    "english": "similarity",
+    "category": "general",
+    "difficulty": "hard"
+  },
+  {
+    "id": "516",
+    "spanish": "tender a",
+    "english": "to tend to",
+    "category": "verbs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "517",
+    "spanish": "extraño",
+    "english": "strange",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "518",
+    "spanish": "separado",
+    "english": "separated",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "519",
+    "spanish": "caminata",
+    "english": "hike",
+    "category": "nature",
+    "difficulty": "medium"
+  },
+  {
+    "id": "520",
+    "spanish": "beneficiar",
+    "english": "to benefit",
+    "category": "verbs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "521",
+    "spanish": "responsabilidad",
+    "english": "responsibility",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "522",
+    "spanish": "convivir",
+    "english": "to live together",
+    "category": "verbs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "523",
+    "spanish": "amistad",
+    "english": "friendship",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "524",
+    "spanish": "valor",
+    "english": "value",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "525",
+    "spanish": "respeto",
+    "english": "respect",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "526",
+    "spanish": "respeto hacia la vida",
+    "english": "respect for life",
+    "category": "expressions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "527",
+    "spanish": "soledad",
+    "english": "loneliness",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "528",
+    "spanish": "dueño",
+    "english": "owner",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "529",
+    "spanish": "bajar",
+    "english": "to go down",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "530",
+    "spanish": "suponer",
+    "english": "to suppose",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "531",
+    "spanish": "debido a",
+    "english": "because of",
+    "category": "prepositions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "532",
+    "spanish": "gusto",
+    "english": "taste",
+    "category": "food",
+    "difficulty": "medium"
+  },
+  {
+    "id": "533",
+    "spanish": "cauteloso",
+    "english": "cautious",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "534",
+    "spanish": "según",
+    "english": "according to",
+    "category": "prepositions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "535",
+    "spanish": "poseer",
+    "english": "to own",
+    "category": "verbs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "536",
+    "spanish": "elegir",
+    "english": "to choose",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "537",
+    "spanish": "curioso",
+    "english": "curious",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "538",
+    "spanish": "merecer",
+    "english": "to deserve",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "539",
+    "spanish": "sufrir",
+    "english": "to suffer",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "540",
+    "spanish": "presencia",
+    "english": "presence",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "541",
+    "spanish": "joven",
+    "english": "young",
+    "category": "people",
+    "difficulty": "easy"
+  },
+  {
+    "id": "542",
+    "spanish": "por otro lado",
+    "english": "on the other hand",
+    "category": "expression",
+    "difficulty": "medium"
+  },
+  {
+    "id": "543",
+    "spanish": "remedio",
+    "english": "remedy",
+    "category": "health",
+    "difficulty": "medium"
+  },
+  {
+    "id": "544",
+    "spanish": "peligroso",
+    "english": "dangerous",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "545",
+    "spanish": "inolvidable",
+    "english": "unforgettable",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "546",
+    "spanish": "sitio",
+    "english": "place",
+    "category": "places",
+    "difficulty": "medium"
+  },
+  {
+    "id": "547",
+    "spanish": "escenario",
+    "english": "scene/stage",
+    "category": "places",
+    "difficulty": "medium"
+  },
+  {
+    "id": "548",
+    "spanish": "grabar",
+    "english": "to record",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "549",
+    "spanish": "acabar",
+    "english": "to finish",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "550",
+    "spanish": "sacar",
+    "english": "to take out",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "551",
+    "spanish": "sin parar",
+    "english": "without stopping",
+    "category": "expression",
+    "difficulty": "medium"
+  },
+  {
+    "id": "552",
+    "spanish": "acogedor",
+    "english": "cozy",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "553",
+    "spanish": "brillar",
+    "english": "to shine",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "554",
+    "spanish": "a mediodía",
+    "english": "at noon",
+    "category": "time",
+    "difficulty": "medium"
+  },
+  {
+    "id": "555",
+    "spanish": "sombrilla",
+    "english": "sunshade",
+    "category": "objects",
+    "difficulty": "medium"
+  },
+  {
+    "id": "556",
+    "spanish": "prometer",
+    "english": "to promise",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "557",
+    "spanish": "lleno de",
+    "english": "full of",
+    "category": "expression",
+    "difficulty": "medium"
+  },
+  {
+    "id": "558",
+    "spanish": "hice",
+    "english": "I did/made",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "559",
+    "spanish": "hiciste",
+    "english": "you did/made",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "560",
+    "spanish": "hizo",
+    "english": "he/she did/made",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "561",
+    "spanish": "hicimos",
+    "english": "we did/made",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "562",
+    "spanish": "hicisteis",
+    "english": "you all did/made",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "563",
+    "spanish": "hicieron",
+    "english": "they did/made",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "564",
+    "spanish": "sentirse",
+    "english": "to feel",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "565",
+    "spanish": "alojarse",
+    "english": "to stay (accommodation)",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "566",
+    "spanish": "paciencia",
+    "english": "patience",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "567",
+    "spanish": "anoche",
+    "english": "last night",
+    "category": "time",
+    "difficulty": "medium"
+  },
+  {
+    "id": "568",
+    "spanish": "vine",
+    "english": "I came",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "569",
+    "spanish": "viniste",
+    "english": "you came",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "570",
+    "spanish": "vino",
+    "english": "he/she came",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "571",
+    "spanish": "vinimos",
+    "english": "we came",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "572",
+    "spanish": "vinisteis",
+    "english": "you all came",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "573",
+    "spanish": "vinieron",
+    "english": "they came",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "574",
+    "spanish": "sueño",
+    "english": "dream",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "575",
+    "spanish": "de primera vista",
+    "english": "at first sight",
+    "category": "expression",
+    "difficulty": "hard"
+  },
+  {
+    "id": "576",
+    "spanish": "atraído",
+    "english": "attracted",
+    "category": "adjectives",
+    "difficulty": "hard"
+  },
+  {
+    "id": "577",
+    "spanish": "acercarse",
+    "english": "to approach",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "578",
+    "spanish": "enamorarse",
+    "english": "to fall in love",
+    "category": "verbs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "579",
+    "spanish": "enseguida",
+    "english": "right away",
+    "category": "adverbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "580",
+    "spanish": "acompañar",
+    "english": "to accompany",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "581",
+    "spanish": "quedar",
+    "english": "to stay/meet",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "582",
+    "spanish": "estoy en las nubes",
+    "english": "I'm in the clouds",
+    "category": "expression",
+    "difficulty": "hard"
+  },
+  {
+    "id": "583",
+    "spanish": "intentar",
+    "english": "to try",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "584",
+    "spanish": "un rato",
+    "english": "a while",
+    "category": "expression",
+    "difficulty": "medium"
+  },
+  {
+    "id": "585",
+    "spanish": "un montón",
+    "english": "a lot",
+    "category": "expression",
+    "difficulty": "medium"
+  },
+  {
+    "id": "586",
+    "spanish": "luminoso",
+    "english": "bright",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "587",
+    "spanish": "ir de compras",
+    "english": "to go shopping",
+    "category": "expression",
+    "difficulty": "medium"
+  },
+  {
+    "id": "588",
+    "spanish": "obra",
+    "english": "work (of art)",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "589",
+    "spanish": "taller",
+    "english": "workshop",
+    "category": "places",
+    "difficulty": "medium"
+  },
+  {
+    "id": "590",
+    "spanish": "orgulloso",
+    "english": "proud",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "591",
+    "spanish": "pieza",
+    "english": "piece",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "592",
+    "spanish": "crear",
+    "english": "to create",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "593",
+    "spanish": "reír",
+    "english": "to laugh",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "594",
+    "spanish": "bosque",
+    "english": "forest",
+    "category": "nature",
+    "difficulty": "medium"
+  },
+  {
+    "id": "595",
+    "spanish": "sacar fotos",
+    "english": "to take photos",
+    "category": "expression",
+    "difficulty": "medium"
+  },
+  {
+    "id": "596",
+    "spanish": "sendero",
+    "english": "path/trail",
+    "category": "nature",
+    "difficulty": "medium"
+  },
+  {
+    "id": "597",
+    "spanish": "cascada",
+    "english": "waterfall",
+    "category": "nature",
+    "difficulty": "medium"
+  },
+  {
+    "id": "598",
+    "spanish": "al regresar",
+    "english": "on returning",
+    "category": "expression",
+    "difficulty": "hard"
+  },
+  {
+    "id": "599",
+    "spanish": "paz",
+    "english": "peace",
+    "category": "general",
+    "difficulty": "medium"
+  },
+  {
+    "id": "600",
+    "spanish": "deja me en paz",
+    "english": "leave me alone",
+    "category": "expression",
+    "difficulty": "medium"
+  },
+  {
+    "id": "601",
+    "spanish": "cortar",
+    "english": "to cut",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "602",
+    "spanish": "con cuidado",
+    "english": "carefully",
+    "category": "adverbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "603",
+    "spanish": "lentamente",
+    "english": "slowly",
+    "category": "adverbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "604",
+    "spanish": "elogio",
+    "english": "praise",
+    "category": "general",
+    "difficulty": "hard"
+  },
+  {
+    "id": "605",
+    "spanish": "anotar",
+    "english": "to note",
+    "category": "verbs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "606",
+    "spanish": "con cariño",
+    "english": "lovingly",
+    "category": "adverbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "607",
+    "spanish": "satisfecho",
+    "english": "satisfied",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "608",
+    "spanish": "resolver",
+    "english": "to solve",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "609",
+    "spanish": "red",
+    "english": "network",
+    "category": "technology",
+    "difficulty": "medium"
+  },
+  {
+    "id": "610",
+    "spanish": "emocionado",
+    "english": "excited",
+    "category": "adjectives",
+    "difficulty": "medium"
+  },
+  {
+    "id": "611",
+    "spanish": "di",
+    "english": "I gave",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "612",
+    "spanish": "diste",
+    "english": "you gave",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "613",
+    "spanish": "dio",
+    "english": "he/she gave",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "614",
+    "spanish": "dimos",
+    "english": "we gave",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "615",
+    "spanish": "disteis",
+    "english": "you all gave",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "616",
+    "spanish": "dieron",
+    "english": "they gave",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "617",
+    "spanish": "agradecer",
+    "english": "to thank",
+    "category": "verbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "618",
+    "spanish": "de repente",
+    "english": "suddenly",
+    "category": "adverbs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "619",
+    "spanish": "entonces",
+    "english": "then/so",
+    "category": "adverbs",
+    "difficulty": "medium"
   }
 ]
